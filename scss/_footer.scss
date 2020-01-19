@@ -1,0 +1,11 @@
+.footer{
+  background-color: $color-secondary;
+  grid-column: full-start / full-end;
+}
+
+.copyright{
+  font-size: 1.4rem;
+  color: $color-grey-light-2;
+  text-align: center;
+  margin-top: 6rem;
+}
